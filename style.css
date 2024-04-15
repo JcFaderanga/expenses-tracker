@@ -109,6 +109,7 @@ ITEM DROP DOWN
     background: #F8F8F8;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     margin: 0 auto;
+    -webkit-animation: fadeInLeft .4s cubic-bezier(0.69,-0.33, 0.23, 1.24); 
 }
 .datetime{
     width: 100%;
